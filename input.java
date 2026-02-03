@@ -4,7 +4,7 @@ public class input {
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter the number");
         int num=sc.nextInt();
-
+        sc.close();
 
         System.out.println(num);
     }
