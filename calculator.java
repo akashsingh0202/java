@@ -10,7 +10,7 @@ public class calculator {
         System.out.println("press 2 for substraction:");
         System.out.println("press 3 for multiplication:");
         System.out.println("press 4 for division:");
-        System.out.println("please press the number ");
+        System.out.print("please press the number = ");
         a=sc.nextInt();
         
         switch (a) {
